@@ -9,6 +9,6 @@ This file describes how to execute the run_analysis.R script:
 		<li><p>Uses descriptive activity names to name the activities in the data set</p></li>
 		<li><p>Appropriately labels the data set with descriptive variable names.</p></li>
 		<li><p>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject</p></li></ul>
-<li><p>After that,  an output file will be created in the working directory.  This will be the cleaned data set Tidy.txt</p></li>
-<li><p>Commit both of these files to the github repository.</p></li>
+<li><p>After execution,  an output file will be created in the working directory.  This will be the cleaned data set Tidy.txt</p></li>
+<li><p>The cleaned data set is in this repository as TidyData.txt</p></li>
 </ol>
